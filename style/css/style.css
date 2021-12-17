@@ -1,0 +1,26 @@
+body {
+    text-align: right;
+    direction: rtl;
+    font-family: vazir;
+}
+
+.div-btn-card a {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.jumbotron-heading {
+    font-weight: 300;
+}
+
+.jumbotron .container {
+    max-width: 40rem;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .25rem 0 rgba(0, 0, 0, .05);
+}
